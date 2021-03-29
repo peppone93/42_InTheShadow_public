@@ -35,8 +35,6 @@ Instructions:
 - Open a terminal in the project root and compile the program with the command "make" (all dependencies will be downloaded)
 - Usage: ./nibbler [width] [height] [libIDX] [optional: -flag]
 
-_For this project I decided to make all files public but please do not hesitate to contact me if need additional details._
-
 __Credits:__
 - https://www.bensound.com/
 - https://mixkit.co/
@@ -44,3 +42,6 @@ __Credits:__
 - Fishes by Costr (Viverna) is licensed under Creative Commons Attribution (https://sketchfab.com/3d-models/fishes-aa31604aa3d446b59775dd9e5a08a9ce#download)
 - Cushion Sea Star by RISD Nature Lab is licensed under Creative Commons Attribution (https://sketchfab.com/3d-models/cushion-sea-star-dbcc468ad62949529bd8031b06434765#download)
 - Low Poly Old Red Painted Wooden Bench by Kaamalauppias is licensed under Creative Commons Attribution (https://sketchfab.com/3d-models/low-poly-old-red-painted-wooden-bench-0c0fd2ba8ba64d7987f7607be22b8ec4#download)
+
+
+_For this project I decided to make all files public but please do not hesitate to contact me if need additional details._
