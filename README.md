@@ -30,6 +30,11 @@ __Realized options:__
   <img src="Screen/video.gif" />
 </p>
 
+Instructions:
+- Project tested on Ubuntu and Xubuntu
+- Open a terminal in the project root and compile the program with the command "make" (all dependencies will be downloaded)
+- Usage: ./nibbler [width] [height] [libIDX] [optional: -flag]
+
 _For this project I decided to make all files public but please do not hesitate to contact me if need additional details._
 
 __Credits:__
