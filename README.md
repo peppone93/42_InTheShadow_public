@@ -8,3 +8,8 @@
 ![alt text](Screen/6.jpg)
 ![alt text](Screen/7.jpg)
 ![alt text](Screen/video.gif)
+
+
+<p align="center">
+  <img src="Screen/video.gif" />
+</p>
