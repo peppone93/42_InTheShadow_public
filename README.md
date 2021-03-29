@@ -1,7 +1,7 @@
 # InTheShadow
 
-The goal of the project: to develop a game close to Shadowmatic.
-The goal of the game: the player must use an object in the foreground to create a shadow that looks likea familiar shape in the background.
+The goal of the project: to develop a game close to Shadowmatic.  
+The goal of the game: the player must use an object in the foreground to create a shadow that looks like a familiar shape in the background.  
 The game’s website: http://www.shadowmatic.com/
 
 __NOTE:__
@@ -10,7 +10,7 @@ The game design is not too complex, but it requires a little creativity.
 A test mode will take the player on a path where all the puzzles are unlocked.
 The game must be played with a mouse only.
 To differentiate the rotation and the movement, you can combine the mouse click with a keyboard key.
-The shadow validation management must beneither too demanding, nor too permissive.
+The shadow validation management must be neither too demanding, nor too permissive.
 Objects must move smoothly.
 
 __Realized options:__
